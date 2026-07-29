@@ -1,0 +1,19 @@
+Nombre de usuario: desarrollador_web 
+Contraseña 8096814546aA@
+ Para establecer tu contraseña, visita la siguiente dirección:
+Acceso 
+ajessarquitecturajessi@gmail.com 
+ Clave 8096814546aA@    
+ woocomerce
+  Clave de cliente Hace 6 días ck_1ac7b10bb68aca4ba38a8a4b1435c3a81df4572f Hace 6 días 
+ clave secreta del cliente Hace 6 días cs_37665363b584e8c18f5b5cf4c5d635715583fd84
+https://tecnomundo.com.uy/wp-login.php?login=desarrollador_web&key=mk52ggpDgj1Cx2JZjXOZ&action=rp 
+https://tecnomundo.com.uy/wp-login.php 
+https://stackblitz.com/users/confirmation?bolt=bolt&confirmation_token=-LXWHyAwv-C2UY6M6pzL&redirect_to=%2Foauth%2Fauthorize%3Fclient_id%3Dbolt%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fbolt.new%252Foauth2%26code_challenge_method%3DS256%26code_challenge%3DlD0vi1Odp_KrYA1O2Zj-9bEBF0L3R7z97Nm-hrvmMag%26state%3D6c53b72b-85e8-4171-9db3-71332f88aace%26scope%3Dpublic%26bolt_oauth_provider%3Dlogin_password%26ad_conversions_data_token%3D91e48014-8cf8-4440-afae-66d74fbf9480%26bolt_auth_handeled%3Dtrue
+
+supabase
+angel.mateochamba2011@gmail.com
+contraseña:
+supabaselife@A1
+tecnomundo@A1
+https://bolt.new/p/68441735
